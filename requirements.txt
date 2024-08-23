@@ -1,0 +1,6 @@
+langchain==0.2.13
+unstructured==0.15.1
+python-dotenv==1.0.1
+chromadb==0.5.5
+tiktoken==0.7.0
+openai==1.40.6
