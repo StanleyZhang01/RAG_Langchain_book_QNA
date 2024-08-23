@@ -32,5 +32,5 @@ It queries them using OpenAI's GPT model for context-based question answering.
    ```
 7. Run this script first to ask a question about your book.
    ```
-   python ask_qna.py
+   python main_rag.py
    ```
