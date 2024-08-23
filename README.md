@@ -6,8 +6,10 @@ It queries them using OpenAI's GPT model for context-based question answering.
 ## Installation
 1. Clone the repository
 2. Create a virtual environment
-  - python -m venv venv
-4. Activate the virtual environment:
+   ```
+   python -m venv venv
+   ```
+3. Activate the virtual environment:
   - On Windows:
     ```
     venv\Scripts\activate
