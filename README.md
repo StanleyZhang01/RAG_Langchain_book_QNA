@@ -17,10 +17,18 @@ It queries them using OpenAI's GPT model for context-based question answering.
     source venv/bin/activate
     ```
 4. Install the required packages:
-  - pip install -r requirements.txt
+   ```
+   pip install -r requirements.txt
+   ```
 5. Update the .env file with you open ai API key
-  - OPENAI_API_KEY=your-openai-api-key-here
+   ```
+   OPENAI_API_KEY=your-openai-api-key-here
+   ```
 6. Run this script first to generate the data store:
-  - python generate_data_store.py
+   ```
+   python generate_data_store.py
+   ```
 7. Run this script first to ask a question about your book.
-  - python ask_qna.py
+   ```
+   python ask_qna.py
+   ```
